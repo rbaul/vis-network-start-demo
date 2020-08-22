@@ -1,6 +1,7 @@
 # Vis-Network Community usage Demo
 > Community project [vis-network](https://github.com/visjs/vis-network)
 
+![](doc-files/demo.PNG)
 
 ## Development server
 
