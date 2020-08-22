@@ -21,6 +21,9 @@
     "@angular/router": "~9.1.4",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
+    "vis-data": "^7.0.0",
+    "vis-network": "^8.2.0",
+    "vis-util": "^4.3.4",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
